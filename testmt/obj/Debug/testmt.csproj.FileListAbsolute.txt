@@ -1,0 +1,14 @@
+G:\FileCodeWindow\testmt\testmt\bin\Debug\testmt.exe.config
+G:\FileCodeWindow\testmt\testmt\bin\Debug\testmt.exe
+G:\FileCodeWindow\testmt\testmt\bin\Debug\testmt.pdb
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.csproj.AssemblyReference.cache
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.Form1.resources
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.Properties.Resources.resources
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.csproj.GenerateResource.cache
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.csproj.CoreCompileInputs.cache
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.exe
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.pdb
+G:\FileCodeWindow\testmt\testmt\bin\Debug\Guna.UI2.dll
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.csproj.CopyComplete
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.Form2.resources
+G:\FileCodeWindow\testmt\testmt\obj\Debug\testmt.Form3.resources
